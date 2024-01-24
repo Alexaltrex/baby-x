@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/baby-x/static/css/main.2a399b07.css",
-    "main.js": "/baby-x/static/js/main.01baf264.js",
+    "main.css": "/baby-x/static/css/main.9379f51e.css",
+    "main.js": "/baby-x/static/js/main.878ec7cb.js",
     "static/js/787.c56376a8.chunk.js": "/baby-x/static/js/787.c56376a8.chunk.js",
-    "static/media/baby.png": "/baby-x/static/media/baby.79e326761d4a180870e4.png",
-    "static/media/background.png": "/baby-x/static/media/background.f0f66215ea2edb8871f9.png",
-    "static/media/title.png": "/baby-x/static/media/title.3332f999f27f06567e33.png",
+    "static/media/baby.png": "/baby-x/static/media/baby.9ef290096ad55a929a1f.png",
+    "static/media/background.png": "/baby-x/static/media/background.a18a05bd538a45eae471.png",
+    "static/media/title.png": "/baby-x/static/media/title.5a8897822a11a582934d.png",
     "index.html": "/baby-x/index.html",
-    "main.2a399b07.css.map": "/baby-x/static/css/main.2a399b07.css.map",
-    "main.01baf264.js.map": "/baby-x/static/js/main.01baf264.js.map",
+    "main.9379f51e.css.map": "/baby-x/static/css/main.9379f51e.css.map",
+    "main.878ec7cb.js.map": "/baby-x/static/js/main.878ec7cb.js.map",
     "787.c56376a8.chunk.js.map": "/baby-x/static/js/787.c56376a8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2a399b07.css",
-    "static/js/main.01baf264.js"
+    "static/css/main.9379f51e.css",
+    "static/js/main.878ec7cb.js"
   ]
 }
