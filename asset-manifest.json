@@ -1,18 +1,17 @@
 {
   "files": {
-    "main.css": "/baby-x/static/css/main.9379f51e.css",
-    "main.js": "/baby-x/static/js/main.878ec7cb.js",
+    "main.css": "/baby-x/static/css/main.62ecb1f4.css",
+    "main.js": "/baby-x/static/js/main.dcc5094a.js",
     "static/js/787.c56376a8.chunk.js": "/baby-x/static/js/787.c56376a8.chunk.js",
-    "static/media/baby.png": "/baby-x/static/media/baby.9ef290096ad55a929a1f.png",
+    "static/media/baby.jpg": "/baby-x/static/media/baby.78c2e5d2085fcfd96412.jpg",
     "static/media/background.png": "/baby-x/static/media/background.a18a05bd538a45eae471.png",
-    "static/media/title.png": "/baby-x/static/media/title.5a8897822a11a582934d.png",
     "index.html": "/baby-x/index.html",
-    "main.9379f51e.css.map": "/baby-x/static/css/main.9379f51e.css.map",
-    "main.878ec7cb.js.map": "/baby-x/static/js/main.878ec7cb.js.map",
+    "main.62ecb1f4.css.map": "/baby-x/static/css/main.62ecb1f4.css.map",
+    "main.dcc5094a.js.map": "/baby-x/static/js/main.dcc5094a.js.map",
     "787.c56376a8.chunk.js.map": "/baby-x/static/js/787.c56376a8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9379f51e.css",
-    "static/js/main.878ec7cb.js"
+    "static/css/main.62ecb1f4.css",
+    "static/js/main.dcc5094a.js"
   ]
 }
