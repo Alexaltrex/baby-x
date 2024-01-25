@@ -1,0 +1,5 @@
+@use "sass:math";
+
+@function inrem($value) {
+  @return #{($value / (1.367 * 720 /100 ))}rem;
+}

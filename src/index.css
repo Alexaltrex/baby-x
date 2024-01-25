@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Iceland&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Iceland', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
